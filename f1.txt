@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 This is f1.txt file.
 
 //Changes for story 131
@@ -5,3 +6,9 @@ int age = 0;
 String name = "";
 String schoolname="";
 
+=======
+//Changes for story 121
+int a= 10;
+int b =20;
+int c= a+b;
+>>>>>>> Stashed changes
