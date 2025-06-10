@@ -13,4 +13,8 @@ int b =20;
 int c= a+b;
 >>>>>>> Stashed changes
 
+<<<<<<< HEAD
 We want some conflicts
+=======
+This are supposed to be conflicting statements.
+>>>>>>> d7276783f379518f1841232686a19dfa09e192cb
