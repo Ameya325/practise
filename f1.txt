@@ -1,1 +1,7 @@
 This is f1.txt file.
+
+//Changes for story 131
+int age = 0;
+String name = "";
+String schoolname="";
+
