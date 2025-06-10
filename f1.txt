@@ -12,3 +12,5 @@ int a= 10;
 int b =20;
 int c= a+b;
 >>>>>>> Stashed changes
+
+This are supposed to be conflicting statements.
